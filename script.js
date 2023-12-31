@@ -12,7 +12,6 @@ links.forEach(function(link){
     })
 })
 
-// Mueve el elemento al mismo tiempo que la imagen
 var contenedor = document.getElementById('.header__portada');
 var elementoMovible = document.getElementById('.header__figure');
 

@@ -23,7 +23,6 @@ body{
     width: 90%;
     margin: 0 auto;
     padding: 10px 0;
-    /*position: fixed;*/
     display: flex;
     justify-content: space-between;
 }
@@ -130,8 +129,6 @@ body{
     color: var(--color-secundary);
 }
 
-/*main*/
-
 #main{
     background-color: white;
     margin-top: 30px;
@@ -171,8 +168,6 @@ body{
     height: 350px;
     max-height: 350px;
 }
-
-/*TEXTS*/
 
 .forher__texts{
     width: 90%;
